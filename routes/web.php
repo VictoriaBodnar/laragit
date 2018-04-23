@@ -23,5 +23,5 @@ Route::resource('admin-panel','DashPosts');
 Route::get('foo', function (){ return "HELLO simpe route.";});
 
 Route::get('testvi', function () {
-  return view('testviews.greeting', ['name' => 'Victoria:)))']);
+  return view('testviews.greeting', ['name' => 'Victoria:)))-))***__']);
 });
